@@ -1,6 +1,6 @@
 # CourseMatch App built by SwiftUI
 
-An front-end app where entered users can see other students' fall and spring schedules that creates a school-wise engagement. 
+A model development app where entered users can see other students' fall and spring schedules that creates a school-wise engagement. 
 
 TabforView: This is the front page that includes the creation of a tab-based navigation system with a searchable contact list. The body property defines the main content of the view, organized into a TabView that provides tab-based navigation. Each tab contains different content, allowing users to switch between views seamlessly.
 
